@@ -10,3 +10,7 @@ public string AmIOld(int age) {
   return age > 50 ? 'You are old' : 'Not old';
 };
 ```
+
+- [x] Sleep
+- [x] Eat
+- [ ] Feel well
